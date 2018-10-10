@@ -1,0 +1,13 @@
+{
+    "//": "manifest section",
+    "Manifest_displayName": "Redfish",
+    "Manifest_description": "{!product-description}",
+    "Manifest_category": "SME",
+
+    "//": "Redfish",
+    "Redfish_title": "Redfish",
+
+    "//": "about",
+    "Redfish_about": "{!product-about}",
+    "Redfish_aboutDescription": "{!product-about-description}"
+}
